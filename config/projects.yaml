@@ -1,0 +1,72 @@
+projects:
+  - name: "nano Blog"
+    description: "A personal blog where I share all things nano"
+    url: "https://blog.bnano.info"
+    image: "images/blog.png"
+
+  - name: "NanoBrowse (Live)"
+    description: "A simple to host block explorer for the Nano cryptocurrency."
+    url: "https://nanobrowse.com"
+    image: "images/nanobrowse.png"
+    github_url: "https://github.com/gr0vity-dev/nanobrowse"
+
+  - name: "Nanoticker (Live)"
+    description: "Real-time stats for the Live network."
+    url: "https://stats.nanobrowse.com"
+    image: "images/nanoticker.png"
+    github_url: "https://github.com/gr0vity-dev/nanoticker/tree/wip/refactor"
+
+  - name: "Block Validation"
+    description: "Tool to validate a block is structured correctly"
+    url: "https://verifyblock.bnano.info/"
+    image: "images/blockvalidate.png"
+    github_url: "https://github.com/gr0vity-dev/nano-block-validator"
+  
+  - name: "Bootstrap Progress"
+    description: "Visualize the bootstrap progress of any node"
+    url: "https://bootstrap.bnano.info/live"
+    image: "images/nanoboot.png"
+  
+  - name: "Vote Visualizer (Live)"
+    description: "Real-time votes for the Beta network."
+    image: "images/vote_visu.png"
+    url: "https://votes.nanobrowse.com"
+
+  - name: "Nodestats (Live)"
+    description: "Real-time stats from contributing nodes."
+    image: "images/nodestats.png"
+    url: "https://nodestats.nanobrowse.com"
+
+
+
+
+
+
+
+
+  - name: "Beta Nanoticker"
+    description: "Real-time stats for the Beta network."
+    url: "https://nanoticker.bnano.info"
+    image: "images/nanoticker_beta.png"
+    github_url: "https://github.com/gr0vity-dev/nanoticker/tree/wip/refactor"
+  
+  - name: "Beta Vote Visualizer"
+    description: "Real-time votes for the Beta network."
+    image: "images/vote_visu_beta.png"
+    url: "https://votes.bnano.info"
+  
+  - name: "Beta NanoBrowse"
+    description: "A simple to host block explorer for the Nano cryptocurrency."
+    url: "https://beta.nanobrowse.com"
+    image: "images/nanobrowse_beta.png"
+    github_url: "https://github.com/gr0vity-dev/nanobrowse"
+
+  - name: "Beta Bootstrap Progress"
+    description: "Visualize the bootstrap progress of any node"
+    url: "https://bootstrap.bnano.info/beta"
+    image: "images/nanoboot_beta.png"
+  
+  - name: "Beta Nodestats"
+    description: "Real-time stats from contributing nodes."
+    image: "images/nodestats_beta.png"
+    url: "https://nodestats.bnano.info"
