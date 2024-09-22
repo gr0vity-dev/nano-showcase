@@ -37,6 +37,10 @@ projects:
     image: "images/nodestats.png"
     url: "https://nodestats.nanobrowse.com"
 
+  - name: "Nanotps Speedtest (Live)"
+    description: "Daily speedtest publishing 2500 send, receive and change blocks each."
+    image: "images/nanotps_live.png"
+    url: "https://tps.bnano.info"
 
 
 
@@ -70,3 +74,8 @@ projects:
     description: "Real-time stats from contributing nodes."
     image: "images/nodestats_beta.png"
     url: "https://nodestats.bnano.info"
+  
+  - name: "Beta Speedtest"
+    description: "Daily speedtest publishing 2500 send, receive and change blocks each."
+    image: "images/nanotps.png"
+    url: "https://tps.bnano.info/beta"
