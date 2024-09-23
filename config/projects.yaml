@@ -10,6 +10,12 @@ projects:
     image: "images/nanobrowse.png"
     github_url: "https://github.com/gr0vity-dev/nanobrowse"
 
+  - name: "CT Dashboard"
+    description: "Automated testsuite run on each PR & Commit made to the nanocurrency/nano-node git repo"
+    url: "https://ct.bnano.info"
+    image: "images/ctdashboard.png"
+    github_url: "https://github.com/gr0vity-dev/nano-ct-dashboard"
+
   - name: "Nanoticker (Live)"
     description: "Real-time stats for the Live network."
     url: "https://stats.nanobrowse.com"
