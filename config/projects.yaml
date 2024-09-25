@@ -10,6 +10,12 @@ projects:
     image: "images/nanobrowse.png"
     github_url: "https://github.com/gr0vity-dev/nanobrowse"
 
+  - name: "Election Visualizer (Live)"
+    description: "Show vote participation of representatives for each election"
+    url: "https://elections.nanobrowse.com"
+    image: "images/election-visu.png"
+    github_url: "https://github.com/gr0vity-dev/nano-election-visu"    
+
   - name: "CT Dashboard"
     description: "Automated testsuite run on each PR & Commit made to the nanocurrency/nano-node git repo"
     url: "https://ct.bnano.info"
